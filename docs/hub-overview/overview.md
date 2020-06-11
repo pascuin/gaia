@@ -22,6 +22,7 @@ Do your own research and take precautions in regards to wallet security. Neither
 
 These community-maintained web and mobile wallets allow you to store & transfer ATOM, delegate ATOM to validators, and vote on on-chain governance proposals. Note that we do not endorse any of the wallets, they are listed for your convenience.
 
+* [AirGap](https://airgap.it/) - Android, Linux
 * [Atomic Wallet](https://atomicwallet.io/) - Android, Linux, macOS, Windows
 * [Cobo](https://cobo.com/) - Android, iOS
 * [Cosmostation](https://www.cosmostation.io/) - Android, iOS
